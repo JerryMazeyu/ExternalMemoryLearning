@@ -1,0 +1,2 @@
+# ExternalMemoryLearning
+利用外部内存持久化分类表征的小实验
